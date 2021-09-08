@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbartew
 - ✍ I’m interested in web and game development 👾
-- 🌱 I’m currently learning C#, Unity3D, and the webdev stack 🌐
+- 🌱 I’m currently learning C#, Unity3D, and the classic webdev stack 🌐
 - 💞️ I’m looking to collaborate on various projects - especially Unity related 🎮 
 - 📫 How to reach me - dbartew@gmail.com | https://www.linkedin.com/in/dbartew | telegram @dbartew
 
